@@ -1,0 +1,12 @@
+.icon{
+    display: inline-block;
+}
+.icon > img{
+    width: 300px;
+    height: 300px;
+}
+
+.icon > img:hover{
+    filter: invert(1);
+}
+h1{text-align: center}
